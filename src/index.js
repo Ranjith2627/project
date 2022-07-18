@@ -2,7 +2,7 @@ import ReactDOM from 'react-dom/client'
 import App from './app.js'
 
 
-const GgshMain = () => {
+const Ggshmain = () => {
   return(
   <div>
     <App />
@@ -11,4 +11,4 @@ const GgshMain = () => {
   )
 }
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<GgshMain />);
+root.render(<Ggshmain />);
